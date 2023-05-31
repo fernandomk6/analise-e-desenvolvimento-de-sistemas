@@ -1,2 +1,7 @@
-# analise-e-desenvolvimento-de-sistemas
-Repositório criado para guardar anotações relevantes sobre a faculdade de ADS
+# Analise e Desenvolvimento de sistemas
+
+- Faculdade: Estácio
+- Iício: 01/2023
+
+Repositório criado para guardar anotações relevantes sobre o curso de ADS.
+
